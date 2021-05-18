@@ -6,7 +6,7 @@
 int PIN = 4;
 
 //Your Domain name with URL path or IP address with path to the api.php file
-String serverName = "http://ranni.ca/api.php";
+String serverName = "http://api.laketemp.ca/api.php";
 
 //API key set in api.php
 String apikey = "RandomAPIKey";

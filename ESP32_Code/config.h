@@ -18,17 +18,17 @@ String site = "https://laketemp.ca/";
 //
 //Timer delay between calling the api
 //
-// Timer set to 10 minutes (600000)
+// Timer set to 10 minutes (600000 milliseconds)
 //unsigned long timerDelay = 600000;
 
-// Timer set to 20 minutes (1200000)
+// Timer set to 20 minutes (1200000 milliseconds)
 //unsigned long timerDelay = 1200000;
 
-// Timer set to 15 minutes (900000)
+// Timer set to 15 minutes (900000 milliseconds)
 //unsigned long timerDelay = 900000;
 
-// Set timer to 3 minutes (180000)
+// Set timer to 3 minutes (180000 milliseconds)
 unsigned long timerDelay = 180000; //Currently Enabled
 
-// Set timer to 30 seconds (30000)
+// Set timer to 30 seconds (30000 milliseconds)
 //unsigned long timerDelay = 30000;
